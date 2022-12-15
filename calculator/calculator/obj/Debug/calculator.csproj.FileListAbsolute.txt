@@ -17,3 +17,12 @@ D:\Programs\c#\calculator\calculator\bin\Debug\calculator.application
 D:\Programs\c#\calculator\calculator\obj\Debug\calculator.exe.manifest
 D:\Programs\c#\calculator\calculator\obj\Debug\calculator.application
 D:\Programs\c#\calculator\calculator\obj\Debug\calculator.Form2.resources
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.Form2.resources
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\subbo\Downloads\liter-calculator\calculator\calculator\obj\Debug\calculator.pdb

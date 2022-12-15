@@ -20,7 +20,6 @@ namespace calculator
         {
             InitializeComponent();
             this.Text = "Перевод из литров в киллограмы";
-            this.Icon = Properties.Resources.
             this.MaximizeBox = false;
 
             if (File.Exists("liquids.json"))
